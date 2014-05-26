@@ -1,4 +1,0 @@
-QEQM
-====
-
-Estrutura
